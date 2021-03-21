@@ -13,7 +13,7 @@ Time
 
 
 
-**_Installation of required modules_**.
+**_Installation of required modules:_**
 
 `pip install selenium`
 
