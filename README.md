@@ -20,7 +20,7 @@ Time
 `pip install time`
 
 
-After extracting the ChromeDriver you must set Path on the 5th line of reply.py
+After extracting the ChromeDriver you must set Path in reply.py
 
 
 
