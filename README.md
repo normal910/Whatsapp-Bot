@@ -4,9 +4,9 @@ A Whatsapp-Bot that answers a certain contact, you can send a certain reply to a
 
 **_Required Modules:_** 
 
-Selenium WebDriver
+Selenuim 
 
-Time 
+Time
 
 [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/home) -->
                 [List of aviable Packages](https://chromedriver.storage.googleapis.com/index.html?path=89.0.4389.23/)
