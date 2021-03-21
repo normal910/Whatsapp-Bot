@@ -2,7 +2,7 @@
 
 A Whatsapp-Bot that answers a certain contact, you can send a certain reply to a certain message, you can use your PC unhindered during the process. 
 
-**_Requisits:_** 
+**_Required Modules:_** 
 
 Selenium WebDriver
 
