@@ -22,8 +22,8 @@ Time
 
 After extracting the ChromeDriver you must set Path to the executable in reply.py
 
-Enjoy!
 
 
+There is still a bug in the Block of code that gets the message, im still working on it
 
 
