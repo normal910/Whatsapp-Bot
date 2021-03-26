@@ -1,8 +1,10 @@
 # Whatsapp-Bot
 
-A Whatsapp-Bot that answers a certain contact, you can send a certain reply to a certain message, you can use your PC unhindered during the process. 
-
-**_Required Modules:_** 
+A Whatsapp-Bot that answers a certain contact, you can send a certain reply to the last message, the script will open a Browser window, you can minimize
+ it, but DON'T CLOSE it
+ 
+ 
+**_Requirements:_** 
 
 Selenuim 
 
