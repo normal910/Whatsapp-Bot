@@ -6,9 +6,9 @@ A Whatsapp-Bot that answers a certain contact, you can send a reply to the last 
  
 **_Requirements:_** 
 
-Selenuim 
+Selenuim Module
 
-Time
+Time Module
 
 [ChromeDriver Homepage](https://sites.google.com/a/chromium.org/chromedriver/home) -->
                 [List of aviable Packages](https://chromedriver.storage.googleapis.com/index.html?path=89.0.4389.23/)
