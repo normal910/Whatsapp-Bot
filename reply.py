@@ -53,9 +53,9 @@ try:
 
          xpath = './/div[@class="_2_1wd copyable-text selectable-text"][@contenteditable="true"][@data-tab="6"]'
          reply = driver.find_element_by_xpath(xpath)
-         reply.clear()
          reply.send_keys("Your message could not be read correctly")
          reply.send_keys(Keys.RETURN)
+         reply.clear()
 
 
 
